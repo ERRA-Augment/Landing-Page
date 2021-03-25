@@ -5,9 +5,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <a>
-          Hello Reactsface
+          Hello React
         </a>
       </header>
+      <button className="submit">Submit</button>
     </div>
   );
 }
